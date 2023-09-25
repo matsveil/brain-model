@@ -1,1 +1,1 @@
-# BrainModel
+# RVCC Engineering Club Brain Model
